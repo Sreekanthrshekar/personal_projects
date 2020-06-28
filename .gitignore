@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 hr_data.csv
+chipotle.tsv
